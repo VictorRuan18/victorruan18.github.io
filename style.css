@@ -1,0 +1,121 @@
+
+ #header {
+   margin-top:60px;
+   line-height: 0rem;
+
+
+
+ }
+
+ .navbar-dark .navbar-nav .nav-link {
+   color:#fff;
+ }
+
+.navbar-brand {
+  font-size: 1.5rem;
+
+}
+
+#aboutMe {
+  padding-top:0px;
+
+}
+
+#heading1Style {
+object-fit: cover;
+height:auto;
+width:300px!important;
+text-align: center;
+
+
+}
+
+.content-section {
+margin-top:-1rem;
+
+}
+
+.bg-image {
+  background-image: url('https://images.unsplash.com/photo-1581373449483-37449f962b6c?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxleHBsb3JlLWZlZWR8NXx8fGVufDB8fHx8&w=1000&q=80');
+  background-size: cover;
+  background-position:bottom;
+      background-position-y: center;
+
+}
+
+
+.btn-xl1 {
+  border-radius: 8px;
+  padding: 10px 40px;
+  font-size: 2rem;
+}
+
+.form-control{
+  border: 1px solid black;
+}
+
+
+.btn-xl {
+    font-size: 18px;
+    padding: 20px 40px;
+    font-weight: 700;
+    box-shadow: 0px 3px 3px 0px rgb(0 0 0 / 10%);
+}
+
+#flexLearn {
+padding-left:10%;
+}
+
+.skills {
+text-align: center;
+margin-top:-20px;
+}
+
+.circle {
+    background-color: #fff;
+    color:#008080;
+    height: 7rem;
+    width: 7rem;
+    padding-top: .3rem;
+  align-items: center;
+
+    font-size: 2.25rem;
+
+    box-shadow: 0 3px 3px 0 rgb(0 0 0 / 10%);
+
+
+
+}
+.rounded-circle {
+    border-radius: 50%!important;
+border-style:solid;
+border-color:#DAA520;
+border-width:medium;
+
+}
+
+.list-group-item {
+
+border:none;
+}
+
+.contactPadding {
+  padding:25%;
+}
+
+.contactAlign {
+  text-align: center;
+}
+
+.contactColor {
+  background-color: #AFEEEE;
+}
+.navbar-expand-lg .navbar-nav .nav-link {
+    padding-right: 1.2rem;
+    padding-left: 1.2rem;
+}
+
+ul.navbar-nav a:hover {
+  color: orange !important;
+  transition: .3s;
+ }
